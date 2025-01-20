@@ -3,133 +3,22 @@
     "categories": [
         {
             "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "mode": "url",
-                        "customHeader": "",
-                        "userviewCacheDuration": "60",
-                        "defaultPortletHeight": "250",
-                        "userviewCacheScope": "application",
-                        "plugins": [],
-                        "customFooter": "",
-                        "urlPortletSetting": [],
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Services",
-                        "enableOffline": "true",
-                        "id": "8ABE4A700E4C4BF0B765B59BB5B1D39D",
-                        "customId": "dashboard"
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "mode": "plugins",
-                        "userviewCacheDuration": "20",
-                        "customHeader": "",
-                        "defaultPortletHeight": "250",
-                        "userviewCacheScope": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Colorful",
-                        "id": "5D00C4A9E43D4127CE4BD73557061D0B",
-                        "enableOffline": "",
-                        "customId": "variant_5"
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "defaultPortletWidth": "1",
-                        "customHeader": "",
-                        "autoHeight": "",
-                        "defaultPortletHeight": "250",
-                        "resizable": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Sales",
-                        "enableOffline": "",
-                        "customId": "variant_6",
-                        "mode": "",
-                        "userviewCacheDuration": "20",
-                        "userviewCacheScope": "",
-                        "userviewId": "dashboard",
-                        "urlPortletSetting": [],
-                        "id": "FEEA8820BFEB42A105CD64B3BA483429",
-                        "customPortletSetting": []
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "mode": "plugins",
-                        "userviewCacheDuration": "20",
-                        "customHeader": "",
-                        "defaultPortletHeight": "250",
-                        "userviewCacheScope": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Analytics",
-                        "id": "351B5FC5E74842BAD0C41507D701987D",
-                        "enableOffline": "",
-                        "customId": "variant_7"
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "mode": "plugins",
-                        "userviewCacheDuration": "20",
-                        "customHeader": "",
-                        "defaultPortletHeight": "250",
-                        "userviewCacheScope": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Procurement",
-                        "id": "962E2FED5B3140E305F989CAEDEDB087",
-                        "enableOffline": "",
-                        "customId": "variant_8"
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "defaultPortletWidth": "1",
-                        "customHeader": "",
-                        "autoHeight": "",
-                        "defaultPortletHeight": "250",
-                        "resizable": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Simple I",
-                        "enableOffline": "",
-                        "customId": "variant_3",
-                        "mode": "plugins",
-                        "userviewCacheDuration": "20",
-                        "userviewCacheScope": "",
-                        "userviewId": "dashboard",
-                        "urlPortletSetting": [],
-                        "id": "848EC9C0E4924E3B0A6367E2140A765E",
-                        "customPortletSetting": []
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "mode": "plugins",
-                        "userviewCacheDuration": "20",
-                        "customHeader": "",
-                        "defaultPortletHeight": "250",
-                        "userviewCacheScope": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Simple II",
-                        "id": "3F37D4ACC2C04A8618673515A8FE06DD",
-                        "enableOffline": "",
-                        "customId": "variant_4"
-                    }
+            "menus": [{
+                "className": "org.joget.plugin.enterprise.DashboardMenu",
+                "properties": {
+                    "mode": "plugins",
+                    "userviewCacheDuration": "20",
+                    "customHeader": "",
+                    "defaultPortletHeight": "250",
+                    "userviewCacheScope": "",
+                    "plugins": [],
+                    "customFooter": "",
+                    "label": "<i class=\"fas fa-chart-pie\"><\/i> Procurement",
+                    "id": "962E2FED5B3140E305F989CAEDEDB087",
+                    "enableOffline": "",
+                    "customId": "variant_8"
                 }
-            ],
+            }],
             "properties": {
                 "hide": "",
                 "permission": {
@@ -139,280 +28,6 @@
                 "comment": "",
                 "id": "category-EE74E4F4426241BD9BC3BC73B1D24AC7",
                 "label": "<i class=\"fas fa-chart-line\"><\/i> Dashboards"
-            }
-        },
-        {
-            "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [
-                {
-                    "className": "org.joget.apps.userview.lib.FormMenu",
-                    "properties": {
-                        "loadDataWithKey": "",
-                        "redirectUrlOnCancel": "",
-                        "actionOnCancel": "",
-                        "redirectTargetOnCancel": "top",
-                        "customFooter": "",
-                        "paramName": "",
-                        "enableOffline": "",
-                        "afterSavedReloadTarget": "true",
-                        "customId": "in_form_progress_bar",
-                        "showInPopupDialog": "",
-                        "readonly": "",
-                        "cancelButtonLabel": "",
-                        "actionAfterSaved": "",
-                        "id": "607CAEAB6AEC49F87FAE24B5BA99CC00",
-                        "redirectUrlAfterComplete": "",
-                        "fieldPassover": "",
-                        "formId": "bootstrapFormatter",
-                        "customHeader": "",
-                        "fieldPassoverMethod": "append",
-                        "redirectTargetOnComplete": "",
-                        "keyName": "",
-                        "label": "Form Feature #1 - Progress Bar",
-                        "userviewCacheDuration": "20",
-                        "messageShowAfterComplete": "",
-                        "submitButtonLabel": "",
-                        "userviewCacheScope": "",
-                        "readonlyLabel": "true"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.FormMenu",
-                    "properties": {
-                        "loadDataWithKey": "",
-                        "redirectUrlOnCancel": "",
-                        "actionOnCancel": "",
-                        "redirectTargetOnCancel": "top",
-                        "customFooter": "",
-                        "paramName": "",
-                        "enableOffline": "",
-                        "afterSavedReloadTarget": "true",
-                        "customId": "multi_page_form",
-                        "showInPopupDialog": "",
-                        "readonly": "",
-                        "cancelButtonLabel": "",
-                        "actionAfterSaved": "",
-                        "id": "7FB0F333775E4D2FB5E0BAC8DC9D6467",
-                        "redirectUrlAfterComplete": "",
-                        "fieldPassover": "",
-                        "formId": "multi_page_form",
-                        "customHeader": "",
-                        "fieldPassoverMethod": "append",
-                        "redirectTargetOnComplete": "",
-                        "keyName": "",
-                        "label": "Form Feature #2- Multi-Page Form",
-                        "userviewCacheDuration": "20",
-                        "messageShowAfterComplete": "",
-                        "submitButtonLabel": "",
-                        "userviewCacheScope": "",
-                        "readonlyLabel": "true"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.FormMenu",
-                    "properties": {
-                        "loadDataWithKey": "",
-                        "redirectUrlOnCancel": "",
-                        "actionOnCancel": "",
-                        "redirectTargetOnCancel": "top",
-                        "customFooter": "",
-                        "paramName": "",
-                        "enableOffline": "",
-                        "afterSavedReloadTarget": "true",
-                        "customId": "ajax",
-                        "showInPopupDialog": "",
-                        "readonly": "",
-                        "cancelButtonLabel": "",
-                        "actionAfterSaved": "",
-                        "id": "E2B4B0D89B3A450F1B16D89E2D842882",
-                        "redirectUrlAfterComplete": "",
-                        "fieldPassover": "",
-                        "formId": "ajax",
-                        "customHeader": "",
-                        "fieldPassoverMethod": "append",
-                        "redirectTargetOnComplete": "",
-                        "keyName": "",
-                        "label": "Form Feature #3- Ajax",
-                        "userviewCacheDuration": "20",
-                        "messageShowAfterComplete": "",
-                        "submitButtonLabel": "",
-                        "userviewCacheScope": "",
-                        "readonlyLabel": "true"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.FormMenu",
-                    "properties": {
-                        "loadDataWithKey": "",
-                        "redirectUrlOnCancel": "",
-                        "actionOnCancel": "",
-                        "redirectTargetOnCancel": "top",
-                        "customFooter": "",
-                        "paramName": "",
-                        "enableOffline": "",
-                        "afterSavedReloadTarget": "true",
-                        "customId": "form_feature_json_apis",
-                        "showInPopupDialog": "",
-                        "readonly": "",
-                        "cancelButtonLabel": "",
-                        "actionAfterSaved": "",
-                        "id": "9C1560CD0FD249CBB4633B0DDAD73EE2",
-                        "redirectUrlAfterComplete": "",
-                        "fieldPassover": "",
-                        "formId": "jsonAPIs",
-                        "customHeader": "",
-                        "fieldPassoverMethod": "append",
-                        "redirectTargetOnComplete": "",
-                        "keyName": "",
-                        "label": "Form Feature #5 - JSON APIs",
-                        "userviewCacheDuration": "20",
-                        "messageShowAfterComplete": "",
-                        "submitButtonLabel": "",
-                        "userviewCacheScope": "",
-                        "readonlyLabel": "true"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.FormMenu",
-                    "properties": {
-                        "loadDataWithKey": "",
-                        "redirectUrlOnCancel": "",
-                        "actionOnCancel": "",
-                        "redirectTargetOnCancel": "top",
-                        "customFooter": "",
-                        "paramName": "",
-                        "enableOffline": "",
-                        "afterSavedReloadTarget": "true",
-                        "customId": "form_feature_jdbc_load_binder",
-                        "showInPopupDialog": "",
-                        "readonly": "",
-                        "cancelButtonLabel": "",
-                        "actionAfterSaved": "",
-                        "id": "60363C6B02C84ED7E450D999B543BDC4",
-                        "redirectUrlAfterComplete": "",
-                        "fieldPassover": "",
-                        "formId": "sqlQuery",
-                        "customHeader": "",
-                        "fieldPassoverMethod": "append",
-                        "redirectTargetOnComplete": "",
-                        "keyName": "",
-                        "label": "Form Feature #6- JDBC Load Binder",
-                        "userviewCacheDuration": "20",
-                        "messageShowAfterComplete": "",
-                        "submitButtonLabel": "",
-                        "userviewCacheScope": "",
-                        "readonlyLabel": "true"
-                    }
-                }
-            ],
-            "properties": {
-                "hide": "",
-                "permission": {
-                    "className": "",
-                    "properties": {}
-                },
-                "comment": "",
-                "label": "<i class=\"fab fa-wpforms\"><\/i> Form Features",
-                "id": "category-4BAB0C8139684F0CE39DE0A397AAD513"
-            }
-        },
-        {
-            "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [
-                {
-                    "className": "org.joget.apps.userview.lib.DataListMenu",
-                    "properties": {
-                        "cacheAllLinks": "",
-                        "customHeader": "",
-                        "keyName": "",
-                        "customFooter": "",
-                        "label": "Available Bookings",
-                        "enableOffline": "",
-                        "customId": "available_bookings",
-                        "buttonPosition": "bothLeft",
-                        "datalistId": "list_available_bookings",
-                        "checkboxPosition": "left",
-                        "selectionType": "multiple",
-                        "userviewCacheDuration": "20",
-                        "cacheListAction": "",
-                        "userviewCacheScope": "",
-                        "rowCount": "",
-                        "id": "F1216EA0AF8744575D4ABB95FC2436B5"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.DataListMenu",
-                    "properties": {
-                        "cacheAllLinks": "",
-                        "customHeader": "",
-                        "keyName": "",
-                        "customFooter": "",
-                        "label": "New RFP",
-                        "enableOffline": "",
-                        "customId": "new_rfp",
-                        "buttonPosition": "bothLeft",
-                        "datalistId": "list_newRFP",
-                        "checkboxPosition": "left",
-                        "selectionType": "multiple",
-                        "userviewCacheDuration": "20",
-                        "cacheListAction": "",
-                        "userviewCacheScope": "",
-                        "rowCount": "",
-                        "id": "9CFC12E8C5794A5E6B925A56131E7BAA"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.DataListMenu",
-                    "properties": {
-                        "cacheAllLinks": "",
-                        "customHeader": "",
-                        "keyName": "",
-                        "customFooter": "",
-                        "label": "News",
-                        "enableOffline": "",
-                        "customId": "news",
-                        "buttonPosition": "bothLeft",
-                        "datalistId": "list_news",
-                        "checkboxPosition": "left",
-                        "selectionType": "multiple",
-                        "userviewCacheDuration": "20",
-                        "cacheListAction": "",
-                        "userviewCacheScope": "",
-                        "rowCount": "",
-                        "id": "B5CEC445602744B2EF95BA0D95547418"
-                    }
-                },
-                {
-                    "className": "org.joget.apps.userview.lib.DataListMenu",
-                    "properties": {
-                        "cacheAllLinks": "",
-                        "customHeader": "",
-                        "keyName": "",
-                        "customFooter": "",
-                        "label": "Recent Transactions",
-                        "enableOffline": "",
-                        "customId": "recent_transactions",
-                        "buttonPosition": "bothLeft",
-                        "datalistId": "list_recentTransactions",
-                        "checkboxPosition": "left",
-                        "selectionType": "multiple",
-                        "userviewCacheDuration": "20",
-                        "cacheListAction": "",
-                        "userviewCacheScope": "",
-                        "rowCount": "",
-                        "id": "3A280EDD84854BB72D8BF1A85813401F"
-                    }
-                }
-            ],
-            "properties": {
-                "hide": "",
-                "permission": {
-                    "className": "",
-                    "properties": {}
-                },
-                "comment": "",
-                "label": "<i class=\"far fa-list-alt\"><\/i> List Features",
-                "id": "category-3C159505917D4B303A9BF344DEC9B17A"
             }
         },
         {
@@ -1682,17 +1297,20 @@
         "userview_thumbnail": "",
         "userview_category": "",
         "theme": {
-            "className": "org.joget.plugin.enterprise.ProgressiveTheme",
+            "className": "joget.org.colorAdminTheme",
             "properties": {
+                "headerTextColor": "#FFFFFF",
                 "css": "",
                 "xbuttonColor": "#FFFFFF",
                 "xlinkActiveColor": "#0069C0",
                 "primaryColor": "INDIGO",
                 "loginBackground": "",
                 "disablePush": "",
+                "dx8navLinkColor": "#FFFFFF",
                 "xnavActiveLinkBackground": "#1A237E",
                 "removeAssignmentTitle": "",
                 "xprimaryColor": "#534BAE",
+                "usermenu-style-background-image": "",
                 "dx8-dark-sidebar-navBackground": "#3F3F46",
                 "xheaderColor": "#000051",
                 "dx8-dark-sidebar-navActiveLinkColor": "#FFFFFF",
@@ -1711,10 +1329,11 @@
                 "profile": "",
                 "dx8-dark-sidebar-headerFontColor": "#3F3F46",
                 "homeAttractBanner": "",
+                "dx8menuRowCountColor": "#0B78D0",
                 "xbuttonBackground": "#1A237E",
                 "dx8headingBgColor": "#FFFFFF",
                 "xnavActiveLinkColor": "#FFFFFF",
-                "dx8linkColor": "#358DED",
+                "dx8linkColor": "#2488EE",
                 "homeUrl": "",
                 "dx8linkActiveColor": "#358DED",
                 "dx8footerColor": "#3F3F46",
@@ -1732,12 +1351,14 @@
                 "roundedFieldDesign": "true",
                 "displayCategoryLabel": "",
                 "xnavLinkColor": "#333333",
+                "formElementColor": "#1890FF",
                 "compactTheme": "true",
                 "js": "",
                 "xfontColor": "#666666",
                 "userMenu": [],
                 "urlsToCache": "",
                 "loginPageTop": "",
+                "headerColor": "#000000",
                 "userImage": "",
                 "dx8buttonColor": "#FFFFFF",
                 "shortcut": [],
@@ -1748,12 +1369,13 @@
                 "xnavBackground": "#EEEEEE",
                 "dx8-dark-sidebar-navLinkBackground": "#3F3F46",
                 "xnavLinkBackground": "#EEEEEE",
-                "dx8fontColor": "#3F3F46",
+                "dx8fontColor": "#000000",
                 "xfooterBackground": "#F2F1F2",
                 "menuFontColor": "BLACK",
+                "loginBackgroudImage": "",
                 "dx8-dark-sidebar-navBadgeText": "#3F3F46",
                 "xbackground": "#F2F1F2",
-                "dx8buttonBackground": "#358DED",
+                "dx8buttonBackground": "#0D6EFD",
                 "dx8-dark-sidebar-navScrollbarThumb": "#4D5F82",
                 "dx8contentFontColor": "#3F3F46",
                 "subfooter": "",
@@ -1762,7 +1384,8 @@
                 "dx8-dark-sidebar-navActiveIconColor": "#FFFFFF",
                 "dx8headingFontColor": "#3F3F46",
                 "dx8-dark-sidebar-headerColor": "#FFFFFF",
-                "dx8primaryColor": "#358DED",
+                "dx8primaryColor": "#FFFFFF",
+                "menuBackgroundColor": "#37474F",
                 "darkMode": "",
                 "dx8-dark-sidebar-navActiveLinkBackground": "#5F5F63",
                 "inbox": "current",
