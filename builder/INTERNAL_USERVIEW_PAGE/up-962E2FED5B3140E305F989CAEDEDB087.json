@@ -239,9 +239,8 @@
                                 "properties": {
                                     "cacheAllLinks": "",
                                     "customHeader": "<h5>Recent Transactions<\/h5>\n<style>\n    .dataList .pageBanner {\n        display:none;\n    }\n    .dataList .filters {\n        display:none;\n    }\n    .dataList .exportlinks {\n    display:none;\n    }\n    .dataList .table-wrapper {\n    padding-bottom:20px !important;\n    }\n    .dataList .pagebanner {\n        display:none;\n    }\n    * {\n        scrollbar-width: none;\n    }\n<\/style>",
-                                    "style-custom": "padding: 10px; /* Keep some padding for aesthetics */\r\n        margin: 0 auto; /* Center the container */\r\n        border-radius: 15px;\r\n        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);\r\n        overflow: hidden; /* Prevent content from spilling out */",
                                     "keyName": "",
-                                    "style-height": "605px",
+                                    "style-height": "600px",
                                     "customFooter": "",
                                     "style-font-size": "12px",
                                     "label": "List",
@@ -256,7 +255,7 @@
                                     "userviewCacheScope": "",
                                     "rowCount": "",
                                     "id": "A227C57A1F384FF24E621C3597174099",
-                                    "style-min-height": "605px"
+                                    "style-min-height": "600px"
                                 }
                             }],
                             "className": "org.joget.apps.userview.lib.component.ColumnComponent",
