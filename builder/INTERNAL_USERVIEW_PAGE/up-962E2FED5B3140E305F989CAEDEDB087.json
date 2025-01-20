@@ -238,7 +238,7 @@
                                 "className": "org.joget.apps.userview.lib.DataListMenu",
                                 "properties": {
                                     "cacheAllLinks": "",
-                                    "customHeader": "<h5>Recent Transactions<\/h5>\n<style>\n    .dataList .pageBanner {\n        display:none;\n    }\n    .dataList .filters {\n        display:none;\n    }\n    .dataList .exportlinks {\n    display:none;\n    }\n    .dataList .table-wrapper {\n    padding-bottom:20px !important;\n    }\n    .dataList .pagebanner {\n        display:none;\n    }\n    * {\n        scrollbar-width: none;\n    }\n<\/style>",
+                                    "customHeader": "<h5>Recent Transactions<\/h5>\n<style>\n    .dataList .pageBanner {\n        display:none;\n    }\n    .dataList .filters {\n        display:none;\n    }\n    .dataList .exportlinks {\n    display:none;\n    }\n    .dataList .table-wrapper {\n    padding-bottom:20px !important;\n    min-height:510px;\n    }\n    .dataList .pagebanner {\n        display:none;\n    }\n    * {\n        scrollbar-width: none;\n    }\n<\/style>",
                                     "keyName": "",
                                     "style-height": "600px",
                                     "customFooter": "",
