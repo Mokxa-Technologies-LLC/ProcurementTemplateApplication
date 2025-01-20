@@ -1,0 +1,61 @@
+{
+    "template": {
+        "className": "",
+        "properties": {}
+    },
+    "considerFilterWhenGetTotal": "",
+    "showPageSizeSelector": "true",
+    "responsiveMode": "",
+    "rowActions": [],
+    "columns": [
+        {
+            "name": "year",
+            "id": "column_1",
+            "label": "Year"
+        },
+        {
+            "name": "great_britain",
+            "id": "column_0",
+            "label": "Great Britain"
+        },
+        {
+            "name": "united_states",
+            "id": "column_2",
+            "label": "United States"
+        },
+        {
+            "name": "germany",
+            "id": "column_3",
+            "label": "Germany"
+        },
+        {
+            "name": "brazil",
+            "id": "column_4",
+            "label": "Brazil"
+        }
+    ],
+    "cardCollapsible": "",
+    "pageSize": "0",
+    "orderBy": "",
+    "description": "",
+    "showDataWhenFilterSet": "",
+    "disableResponsive": "",
+    "checkboxPosition": "left",
+    "cardCollapseByDefault": "",
+    "id": "list_sales_over_years",
+    "binder": {
+        "className": "org.joget.plugin.enterprise.AdvancedFormRowDataListBinder",
+        "properties": {"formDefId": "sales_over_years"}
+    },
+    "order": "",
+    "useSession": "",
+    "draggabletable": "",
+    "filters": [],
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "buttonPosition": "bothLeft",
+    "hidePageSize": "",
+    "name": "(DUMMY) List - Sales Over Years",
+    "rowActionsMode": "",
+    "showhidecolumns": "",
+    "actions": []
+}

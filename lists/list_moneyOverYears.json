@@ -1,0 +1,46 @@
+{
+    "template": {
+        "className": "",
+        "properties": {}
+    },
+    "considerFilterWhenGetTotal": "",
+    "showPageSizeSelector": "true",
+    "responsiveMode": "",
+    "rowActions": [],
+    "columns": [
+        {
+            "name": "money",
+            "id": "column_0",
+            "label": "Money"
+        },
+        {
+            "name": "year",
+            "id": "column_1",
+            "label": "Year"
+        }
+    ],
+    "cardCollapsible": "",
+    "pageSize": "0",
+    "orderBy": "",
+    "description": "",
+    "showDataWhenFilterSet": "",
+    "disableResponsive": "",
+    "checkboxPosition": "left",
+    "cardCollapseByDefault": "",
+    "id": "list_moneyOverYears",
+    "binder": {
+        "className": "org.joget.plugin.enterprise.AdvancedFormRowDataListBinder",
+        "properties": {"formDefId": "moneyOverYears"}
+    },
+    "order": "",
+    "useSession": "",
+    "draggabletable": "",
+    "filters": [],
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "buttonPosition": "bothLeft",
+    "hidePageSize": "",
+    "name": "(DUMMY) List - MT #8 - Money Over Years",
+    "rowActionsMode": "",
+    "showhidecolumns": "",
+    "actions": []
+}

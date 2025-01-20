@@ -1,0 +1,51 @@
+{
+    "template": {
+        "className": "",
+        "properties": {}
+    },
+    "considerFilterWhenGetTotal": "",
+    "showPageSizeSelector": "true",
+    "responsiveMode": "",
+    "rowActions": [],
+    "columns": [
+        {
+            "name": "source",
+            "id": "column_0",
+            "label": "Source"
+        },
+        {
+            "name": "revenue",
+            "id": "column_1",
+            "label": "Revenue"
+        },
+        {
+            "name": "value",
+            "id": "column_2",
+            "label": "Value"
+        }
+    ],
+    "cardCollapsible": "",
+    "pageSize": "0",
+    "orderBy": "",
+    "description": "",
+    "showDataWhenFilterSet": "",
+    "disableResponsive": "",
+    "checkboxPosition": "left",
+    "cardCollapseByDefault": "",
+    "id": "list_sourceMedium",
+    "binder": {
+        "className": "org.joget.plugin.enterprise.AdvancedFormRowDataListBinder",
+        "properties": {"formDefId": "sourceMedium"}
+    },
+    "order": "",
+    "useSession": "",
+    "draggabletable": "",
+    "filters": [],
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "buttonPosition": "bothLeft",
+    "hidePageSize": "",
+    "name": "(DUMMY) List - Source Medium",
+    "rowActionsMode": "",
+    "showhidecolumns": "",
+    "actions": []
+}

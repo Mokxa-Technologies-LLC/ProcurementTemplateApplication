@@ -1,0 +1,39 @@
+{
+    "template": {
+        "className": "",
+        "properties": {}
+    },
+    "considerFilterWhenGetTotal": "",
+    "showPageSizeSelector": "true",
+    "responsiveMode": "",
+    "rowActions": [],
+    "columns": [{
+        "name": "name",
+        "id": "column_0",
+        "label": "Name"
+    }],
+    "cardCollapsible": "",
+    "pageSize": "0",
+    "orderBy": "",
+    "description": "",
+    "showDataWhenFilterSet": "",
+    "disableResponsive": "",
+    "checkboxPosition": "left",
+    "cardCollapseByDefault": "",
+    "id": "list_processEnhancementStatus",
+    "binder": {
+        "className": "org.joget.plugin.enterprise.AdvancedFormRowDataListBinder",
+        "properties": {"formDefId": "processEnhancementStatus"}
+    },
+    "order": "",
+    "useSession": "",
+    "draggabletable": "",
+    "filters": [],
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "buttonPosition": "bothLeft",
+    "hidePageSize": "",
+    "name": "(DUMMY) List - Form Feature #3 - Process Enhancement Tool Status Bar",
+    "rowActionsMode": "",
+    "showhidecolumns": "",
+    "actions": []
+}
