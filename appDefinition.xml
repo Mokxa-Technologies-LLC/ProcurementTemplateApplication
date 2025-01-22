@@ -192,6 +192,14 @@
          <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
       </appResource>
       <appResource>
+         <id>kevin-et-laurianne-langlais-pvFtrzwuc6g-unsplash.jpg</id>
+         <appId>procurementTemplate</appId>
+         <appVersion>1</appVersion>
+         <filesize>3046694</filesize>
+         <permissionClass></permissionClass>
+         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
+      </appResource>
+      <appResource>
          <id>martin-jernberg-UdURxHDhrgY-unsplash.jpg</id>
          <appId>procurementTemplate</appId>
          <appVersion>1</appVersion>
