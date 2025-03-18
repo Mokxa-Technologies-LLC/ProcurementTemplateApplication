@@ -1,0 +1,51 @@
+{
+    "template": {
+        "className": "",
+        "properties": {}
+    },
+    "considerFilterWhenGetTotal": "",
+    "showPageSizeSelector": "true",
+    "responsiveMode": "",
+    "rowActions": [],
+    "columns": [
+        {
+            "name": "2023",
+            "id": "column_0",
+            "label": "2023"
+        },
+        {
+            "name": "country",
+            "id": "column_1",
+            "label": "Country"
+        },
+        {
+            "name": "2022",
+            "id": "column_2",
+            "label": "2022"
+        }
+    ],
+    "cardCollapsible": "",
+    "pageSize": "0",
+    "orderBy": "",
+    "description": "",
+    "showDataWhenFilterSet": "",
+    "disableResponsive": "",
+    "checkboxPosition": "left",
+    "cardCollapseByDefault": "",
+    "id": "list_conversionRates",
+    "binder": {
+        "className": "org.joget.plugin.enterprise.AdvancedFormRowDataListBinder",
+        "properties": {"formDefId": "conversionRates"}
+    },
+    "order": "",
+    "useSession": "",
+    "draggabletable": "",
+    "filters": [],
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "buttonPosition": "bothLeft",
+    "hidePageSize": "",
+    "name": "(DUMMY) List - MT #13 - Conversion Rates",
+    "rowActionsMode": "",
+    "showhidecolumns": "",
+    "actions": []
+}

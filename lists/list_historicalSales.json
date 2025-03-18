@@ -1,0 +1,70 @@
+{
+    "template": {
+        "className": "",
+        "properties": {}
+    },
+    "considerFilterWhenGetTotal": "",
+    "showPageSizeSelector": "true",
+    "responsiveMode": "",
+    "rowActions": [],
+    "columns": [
+        {
+            "name": "date",
+            "format": {
+                "className": "org.joget.plugin.enterprise.DateFormatter",
+                "properties": {"dataFormat": "yyyy-MM-dd"}
+            },
+            "id": "column_0",
+            "label": "Date"
+        },
+        {
+            "filterable": true,
+            "hidden": "false",
+            "name": "current_sales",
+            "id": "column_2",
+            "label": "Current Sales",
+            "sortable": "false"
+        },
+        {
+            "filterable": true,
+            "hidden": "false",
+            "name": "previous_sales",
+            "id": "column_1",
+            "label": "Previous Sales",
+            "sortable": "false"
+        }
+    ],
+    "cardCollapsible": "",
+    "pageSize": "0",
+    "orderBy": "",
+    "description": "",
+    "showDataWhenFilterSet": "",
+    "disableResponsive": "",
+    "checkboxPosition": "left",
+    "cardCollapseByDefault": "",
+    "id": "list_historicalSales",
+    "binder": {
+        "className": "org.joget.plugin.enterprise.AdvancedFormRowDataListBinder",
+        "properties": {"formDefId": "historicalSales"}
+    },
+    "order": "",
+    "useSession": "",
+    "draggabletable": "",
+    "filters": [{
+        "name": "createdBy",
+        "id": "filter_0",
+        "label": "Created By",
+        "type": {
+            "className": "org.joget.apps.datalist.lib.TextFieldDataListFilterType",
+            "properties": {}
+        },
+        "filterParamName": "d-8027815-fn_createdBy"
+    }],
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "buttonPosition": "bothLeft",
+    "hidePageSize": "",
+    "name": "(DUMMY) List - MT #6 - Historical Sales",
+    "rowActionsMode": "",
+    "showhidecolumns": "",
+    "actions": []
+}
