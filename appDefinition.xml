@@ -145,14 +145,6 @@
          <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
       </appResource>
       <appResource>
-         <id>cassie-boca-x-tbVqkfQCU-unsplash.jpg</id>
-         <appId>procurementTemplate</appId>
-         <appVersion>1</appVersion>
-         <filesize>2050442</filesize>
-         <permissionClass></permissionClass>
-         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
-      </appResource>
-      <appResource>
          <id>clay-banks-u27Rrbs9Dwc-unsplash.jpg</id>
          <appId>procurementTemplate</appId>
          <appVersion>1</appVersion>
