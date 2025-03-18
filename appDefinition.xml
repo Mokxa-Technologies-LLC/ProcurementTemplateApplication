@@ -216,14 +216,6 @@
          <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
       </appResource>
       <appResource>
-         <id>tyler-daviaux-zS95n6sWuTA-unsplash.jpg</id>
-         <appId>procurementTemplate</appId>
-         <appVersion>1</appVersion>
-         <filesize>9054224</filesize>
-         <permissionClass></permissionClass>
-         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
-      </appResource>
-      <appResource>
          <id>usgs-hoS3dzgpHzw-unsplash.jpg</id>
          <appId>procurementTemplate</appId>
          <appVersion>1</appVersion>
