@@ -200,14 +200,6 @@
          <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
       </appResource>
       <appResource>
-         <id>martin-jernberg-UdURxHDhrgY-unsplash.jpg</id>
-         <appId>procurementTemplate</appId>
-         <appVersion>1</appVersion>
-         <filesize>8636305</filesize>
-         <permissionClass></permissionClass>
-         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
-      </appResource>
-      <appResource>
          <id>png-transparent-procurement-business-process-management-computer-icons-controllers-blue-text-service-thumbnail.png</id>
          <appId>procurementTemplate</appId>
          <appVersion>1</appVersion>
